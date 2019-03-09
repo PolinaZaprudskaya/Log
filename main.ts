@@ -25,5 +25,7 @@ class Example {
 
 const e = new Example();
 e.sum(1, 2);
-// Arguments: 1,2
-// Result: 3
+e.sum(4, 2);
+e.sum(7, 2);
+e.sum(1, 235);
+e.sum(32545, 2);
